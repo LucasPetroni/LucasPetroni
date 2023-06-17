@@ -27,13 +27,12 @@
 </div>
 
 <br>
+
 <div>
   <a href="https://github.com/ruanJS](https://github.com/LucasPetroni">
   <img heigt="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=LucasPetroni&show_icons=true&theme=tokyonight"/>
   <img heigt="180em" width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPetroni&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>  
-
-##
 
 ![snake gif](https://github.com/LucasPetroni/LucasPetroni/blob/output/github-contribution-grid-snake.svg)
 
