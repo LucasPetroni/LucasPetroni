@@ -1,4 +1,4 @@
-<img style="margin-top: 40px;" align="right" width="400px" src="https://media.discordapp.net/attachments/1114706913716871171/1119434005285175346/gif_programacao.gif?width=455&height=455">
+<img style="margin-top: 40px;" align="right" width="420px" height="400px" src="https://media.discordapp.net/attachments/1114706913716871171/1119434005285175346/gif_programacao.gif?width=455&height=455">
 
 ## Bom Dia, Boa Tarde, Boa Noite! <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
 
