@@ -35,7 +35,7 @@
 
 ##
 
-![snake gif](https://github.com/LucasPetroni/LucasPetroni/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/LucasPetroni/LucasPetroni/blob/main/snake.svg" alt="Snake animation" />
 
 
 
