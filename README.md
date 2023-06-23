@@ -29,7 +29,7 @@
 <br>
 
 <div>
-  <a href="https://github.com/ruanJS](https://github.com/LucasPetroni">
+  <a href="https://github.com/LucasPetroni">
   <img heigt="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=LucasPetroni&show_icons=true&theme=tokyonight"/>
   <img heigt="180em" width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPetroni&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>  
